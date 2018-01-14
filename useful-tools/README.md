@@ -10,7 +10,7 @@
 
 ## About Machine Learning
 1. [tensorflow](http://blog.csdn.net/roach_zfq/article/details/78121743?locationNum=8&fps=1)
-主要尽量配置cuda8以及对应的cudnn6 2017/11/16
+主要配置cuda8以及对应的cudnn6 2017/11/16
 2. [tflearn](tflearn.org/examples/)
 
 ## About Academic
