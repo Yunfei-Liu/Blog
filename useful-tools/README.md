@@ -21,3 +21,6 @@
 ## About 3D
 1. [坐标系旋转变换](www.euclideanspace.com)
 2. [相机投影](ksimek.github.io/perspective_camera_toy.html)
+
+## About Python on Windows
+1. [Scipy和numpy的依赖](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
