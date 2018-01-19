@@ -14,6 +14,7 @@
 2. [tflearn](tflearn.org/examples/)
 ### Demo Links
 主要在配置GPU版本的tensorflow可能会遇到一些麻烦.下面基于配置给予相关链接
+
 |属性|值|
 |:-:|:-:|
 |系统|Ubuntu 16.04|
