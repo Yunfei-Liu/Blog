@@ -25,15 +25,20 @@
 >其中显卡驱动程序使用`NVIDIA-Linux-x86_64-375.26`,直接从[官网](http://www.nvidia.com/Download/index.aspx?lang=en-uk)下载.
 
 >`cuda`使用与`375`对应的版本,名为`NVIDIA-Linux-x86_64-375.26`,可以从[这里](https://developer.nvidia.com/cuda-80-ga2-download-archive)下载
-
+>
 >对应的`cudnn`版本为`6`,版本名为`libcudnn6_6.0.21-1+cuda8.0_amd64`,通过[这里](http://10.254.1.82/cache/14/01/developer2.download.nvidia.com/61a23adbac096be3b3a355ba9673c803/libcudnn6_6.0.21-1%2Bcuda8.0_amd64.deb?qODyyzC67sDI5XOIYJqRFd1L_PwaoBGqSEootSs-i5Vhmjd-OO8HpSrJFnpWWOgQcn8N7JjwtQRa8yg3vllrN0hai6l160PiScy__oYMiDeeKriTpSIV1oHDLCj7LVL1VcxsnixCNO4WSAZcHohYkP7ZvvYLkRb9qeX6P3HQ02T9gPbos95DMDQwBphMOS5CaC2N6FunCjn5ybxaU-emaP2Du-LWqCFhbkjyOY-kRis)安装.
-
+>
 >下一步就比较easy了,通过下面方式安装`tensorflow`以及`tflearn`:
 >```bash
 >sudo pip3 install tensorflow-gpu	# for python3
 >sudo pip install tensorflow		# for python2
 >sudo pip install tflearn			# for python3
 >sudo pip3 install tflearn			# for python2
+>```
+>
+>安装mxnet
+>```bash
+>sudo pip3 install mxnet-cu80==1.0.0
 >```
 
 
