@@ -7,7 +7,7 @@
 1. [系统美化](http://www.linuxidc.com/Linux/2016-09/135165.htm)
 2. [输入法的安装](http://blog.csdn.net/iamplane/article/details/70447517)
 3. [wechat安装](http://blog.csdn.net/mingtiandeqiang/article/details/76168066)
-4. [matlab安装](http://blog.csdn.net/m0_37407756/article/details/73187654)
+4. [matlab安装](https://www.jianshu.com/p/f0cefc737dda)
 
 ## About Machine Learning
 1. [tensorflow](http://blog.csdn.net/roach_zfq/article/details/78121743?locationNum=8&fps=1)
