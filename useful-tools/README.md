@@ -8,6 +8,9 @@
 2. [输入法的安装](http://blog.csdn.net/iamplane/article/details/70447517)
 3. [wechat安装](http://blog.csdn.net/mingtiandeqiang/article/details/76168066)
 4. [matlab安装](https://www.jianshu.com/p/f0cefc737dda)
+>ubuntu下matlab启动报错java.lang.runtime.Exception**********************, 则执行这个命令:
+>
+> `sudo chmod -R a+rw ~/.matlab`
 
 ## About Machine Learning
 1. [tensorflow](http://blog.csdn.net/roach_zfq/article/details/78121743?locationNum=8&fps=1)
