@@ -52,6 +52,7 @@ a & = & b + c \\
 $$
 ```
 and we will get things like this:
+$$
 \begin{eqnarray}
 a & = & b + c \\
 & = & d + e + f + g + h + i
@@ -59,5 +60,6 @@ a & = & b + c \\
 && +\: m + n + o \\
 & = & p + q + r + s
 \end{eqnarray}
+$$
 
 ## Some other things
