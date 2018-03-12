@@ -54,3 +54,6 @@
 ## About 3D
 1. [坐标系旋转变换](www.euclideanspace.com)
 2. [相机投影](ksimek.github.io/perspective_camera_toy.html)
+
+## Aoubt Python in Windows
+1. [Python 预编译好的各种库(.whl)](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
