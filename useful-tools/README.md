@@ -57,3 +57,8 @@
 
 ## Aoubt Python in Windows
 1. [Python 预编译好的各种库(.whl)](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
+
+## About Tensorflow 
+### Tensorflow的数据读取
+具体可以参考[链接1, 中文版的](http://d0evi1.com/tensorflow/datasets/) 和[链接2,英文版的](https://kratzert.github.io/2017/06/15/example-of-tensorflows-new-input-pipeline.html),两者各有千秋,建议都要阅读一下.
+
